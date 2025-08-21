@@ -10,6 +10,5 @@ click here: <a href="https://ahmed-maher77.github.io/seo-master__using-jquery-an
 
 ## Website Preview: 
 <a href="https://ahmed-maher77.github.io/seo-master__using-jquery-and-bootstrap/index.html" title="demo">
-  <img src="https://github.com/user-attachments/assets/56abd888-147e-4820-9aea-ba6455b66541" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/4ba39ca4-a0f2-402f-8b99-0681ce1ef0d5" alt="website preview" width="400">
 </a>
-
