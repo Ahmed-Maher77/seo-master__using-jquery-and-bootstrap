@@ -107,3 +107,12 @@
     
 })(jQuery);
 
+
+
+// Disable links
+const disabledLinks = document.querySelectorAll('.disabled-link');
+disabledLinks.forEach(link => {
+    link.addEventListener('click', (e) => {
+        e.preventDefault();
+    });
+});
